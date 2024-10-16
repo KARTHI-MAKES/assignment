@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "title": "Concert",
+    "description": "Live concert featuring popular bands.",
+    "category": "Music",
+    "date": "2024-05-15",
+    "availableSeats": 50,
+    "price": 30
+  },
+  {
+    "id": 2,
+    "title": "Art Exhibition",
+    "description": "Explore contemporary art by various artists.",
+    "category": "Art",
+    "date": "2024-06-20",
+    "availableSeats": 20,
+    "price": 20
+  },
+  {
+    "id": 3,
+    "title": "Tech Conference",
+    "description": "Join industry leaders for a day of talks and workshops.",
+    "category": "Technology",
+    "date": "2024-07-10",
+    "availableSeats": 100,
+    "price": 100
+  }
+]
